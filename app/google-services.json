@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "94147106570",
+    "firebase_url": "https://gramakalyanasports-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gramakalyanasports",
+    "storage_bucket": "gramakalyanasports.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94147106570:android:110f57fe027c631b578cf3",
+        "android_client_info": {
+          "package_name": "com.example.gramakalyanasports"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVjbDm-W4Omg5188sUZ2xmGf7RSLDGyyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
