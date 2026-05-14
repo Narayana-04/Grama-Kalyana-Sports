@@ -1,64 +1,65 @@
-#  Grama-Kalyana Sports
+# 🏆 Grama-Kalyana Sports
 
 A professional Android sports management application for creating, managing, and tracking live village sports tournaments.
 
-##  Overview
+---
+
+## 📱 Overview
 
 Grama-Kalyana Sports is an Android application built to digitize village-level sports event management. The app allows organizers to create matches, manage teams, track live scores, and monitor match progress in real time.
 
-Supported sports:
--  Cricket
--  Kabaddi
--  Volleyball
+### Supported Sports
+- 🏏 Cricket
+- 🤼 Kabaddi
+- 🏐 Volleyball
 
 ---
 
-##  Features
+## ✨ Features
 
-### Authentication
+### 🔐 Authentication
 - User Registration
 - Secure Login
-- Firebase Authentication integration
+- Firebase Authentication Integration
 
-### Match Management
-- Create new matches
-- Add team names
-- Add team leaders
-- Add players
-- Select venue
-- Select date and time
-- Sport selection
+### 🏟 Match Management
+- Create New Matches
+- Add Team Names
+- Add Team Leaders
+- Add Players
+- Select Venue
+- Select Match Date & Time
+- Sport Selection
 
-### Live Score Tracking
+### 📊 Live Score Tracking
 
-#### Cricket
-- Run scoring (+1, +2, +3, +4, +6)
-- Wicket tracking
-- Winner detection
-- Match commentary
+#### 🏏 Cricket
+- Run Scoring (+1, +2, +3, +4, +6)
+- Wicket Tracking
+- Winner Detection
+- Live Commentary
 
-#### Kabaddi
-- Raid points
-- All-out scoring
-- Live commentary
-- Winner tracking
+#### 🤼 Kabaddi
+- Raid Points
+- All-Out Scoring
+- Live Commentary
+- Winner Tracking
 
-#### Volleyball
-- Point scoring
-- Set tracking
-- Automatic winner detection
+#### 🏐 Volleyball
+- Point Scoring
+- Set Tracking
+- Automatic Winner Detection
 
-### Additional Features
-- Match reset
-- Delete match
-- Firebase Realtime Database sync
-- Sports-themed UI
-- Background images by sport
+### ⚙ Additional Features
+- Match Reset
+- Delete Match
+- Firebase Realtime Database Sync
+- Sports-Themed UI
+- Dynamic Background Images by Sport
 
 ---
 
-##  Tech Stack
-
+## 🛠 Tech Stack
 - Kotlin
 - Jetpack Compose
 - Firebase Authentication
@@ -68,7 +69,7 @@ Supported sports:
 
 ---
 
-##  Project Structure
+## 📂 Project Structure
 
 ```bash
 app/
@@ -88,62 +89,61 @@ app/
 
 ---
 
-##  Installation
+## 🚀 Installation
 
-1. Clone repository
-
+### Clone Repository
 ```bash
 git clone https://github.com/Narayana-04/Grama-Kalyana-Sports.git
 ```
 
-2. Open in Android Studio
-
-3. Add Firebase configuration file:
+### Setup
+1. Open project in Android Studio
+2. Add Firebase config file:
 
 ```text
 app/google-services.json
 ```
 
-4. Sync Gradle
-
-5. Run project
-
----
-
-##  Screenshots
-
-- Register Screen
-<img width="720" height="1529" alt="register-screen jpeg" src="https://github.com/user-attachments/assets/429b85a9-2f8a-4f07-9e2a-e905d5356449" />
-
-- Login Screen
-<img width="720" height="1520" alt="login-screen jpeg" src="https://github.com/user-attachments/assets/2e2ff849-b0db-40f3-acac-2f45edeb8494" />
-
-- Match Creation
-<img width="549" height="850" alt="match-creation jpeg" src="https://github.com/user-attachments/assets/49f97d7f-c424-46bc-b451-f570de16b140" />
-
-- Cricket Live Scoring Screen
-<img width="720" height="1538" alt="cricket-live jpeg" src="https://github.com/user-attachments/assets/38fa69be-d86f-4c47-9d51-e07cc4628919" />
-
-- Kabaddi Live Scoring Screen
-<img width="720" height="1547" alt="kabaddi-live jpeg" src="https://github.com/user-attachments/assets/5f55adeb-f798-41a5-ac70-7fa3465c4078" />
-
-- Volleyball Live Scoring Screen
-<img width="720" height="1529" alt="volleyball-live jpeg" src="https://github.com/user-attachments/assets/0c83e429-0435-4639-bb18-c8ff10b8da36" />
+3. Sync Gradle
+4. Run the project
 
 ---
 
-##  Future Improvements
+## 📸 App Screenshots
 
-- Tournament brackets
-- Push notifications
-- Player profiles
-- Team statistics
-- Match reports PDF
-- Admin dashboard improvements
+### Authentication
+
+| Login Screen | Register Screen |
+|-------------|----------------|
+| ![Login](screenshots/login-screen.jpeg) | ![Register](screenshots/register-screen.jpeg) |
 
 ---
 
-##  Developer
+### Match Creation
+
+![Match Creation](screenshots/match-creation.jpeg)
+
+---
+
+### Live Scoring
+
+| Cricket | Kabaddi | Volleyball |
+|---------|---------|------------|
+| ![Cricket](screenshots/cricket-live.jpeg) | ![Kabaddi](screenshots/kabaddi-live.jpeg) | ![Volleyball](screenshots/volleyball-live.jpeg) |
+
+---
+
+## 🔮 Future Improvements
+- Tournament Brackets
+- Push Notifications
+- Player Profiles
+- Team Statistics
+- Match Reports PDF
+- Advanced Admin Dashboard
+
+---
+
+## 👨‍💻 Developer
 
 **K Sharath Narayana**
 
