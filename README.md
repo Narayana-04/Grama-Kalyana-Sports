@@ -1,28 +1,28 @@
-# 🏆 Grama-Kalyana Sports
+#  Grama-Kalyana Sports
 
 A professional Android sports management application for creating, managing, and tracking live village sports tournaments.
 
 ---
 
-## 📱 Overview
+##  Overview
 
 Grama-Kalyana Sports is an Android application built to digitize village-level sports event management. The app allows organizers to create matches, manage teams, track live scores, and monitor match progress in real time.
 
 ### Supported Sports
-- 🏏 Cricket
-- 🤼 Kabaddi
-- 🏐 Volleyball
+-  Cricket
+-  Kabaddi
+-  Volleyball
 
 ---
 
-## ✨ Features
+##  Features
 
-### 🔐 Authentication
+###  Authentication
 - User Registration
 - Secure Login
 - Firebase Authentication Integration
 
-### 🏟 Match Management
+###  Match Management
 - Create New Matches
 - Add Team Names
 - Add Team Leaders
@@ -31,26 +31,26 @@ Grama-Kalyana Sports is an Android application built to digitize village-level s
 - Select Match Date & Time
 - Sport Selection
 
-### 📊 Live Score Tracking
+###  Live Score Tracking
 
-#### 🏏 Cricket
+####  Cricket
 - Run Scoring (+1, +2, +3, +4, +6)
 - Wicket Tracking
 - Winner Detection
 - Live Commentary
 
-#### 🤼 Kabaddi
+####  Kabaddi
 - Raid Points
 - All-Out Scoring
 - Live Commentary
 - Winner Tracking
 
-#### 🏐 Volleyball
+####  Volleyball
 - Point Scoring
 - Set Tracking
 - Automatic Winner Detection
 
-### ⚙ Additional Features
+###  Additional Features
 - Match Reset
 - Delete Match
 - Firebase Realtime Database Sync
@@ -59,7 +59,7 @@ Grama-Kalyana Sports is an Android application built to digitize village-level s
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 - Kotlin
 - Jetpack Compose
 - Firebase Authentication
@@ -69,7 +69,7 @@ Grama-Kalyana Sports is an Android application built to digitize village-level s
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```bash
 app/
@@ -89,7 +89,7 @@ app/
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 ### Clone Repository
 ```bash
@@ -109,9 +109,10 @@ app/google-services.json
 
 ---
 
-## 📸 App Screenshots
+##  App Screenshots
 
 ### Authentication
+
 
 | Login Screen | Register Screen |
 |-------------|----------------|
@@ -133,7 +134,7 @@ app/google-services.json
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 - Tournament Brackets
 - Push Notifications
 - Player Profiles
@@ -143,7 +144,7 @@ app/google-services.json
 
 ---
 
-## 👨‍💻 Developer
+##  Developer
 
 **K Sharath Narayana**
 
