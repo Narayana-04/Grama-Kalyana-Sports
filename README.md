@@ -112,14 +112,23 @@ app/google-services.json
 
 ##  Screenshots
 
-Add screenshots here:
+- Register Screen
+<img width="720" height="1529" alt="register-screen jpeg" src="https://github.com/user-attachments/assets/429b85a9-2f8a-4f07-9e2a-e905d5356449" />
 
 - Login Screen
-- Register Screen
+<img width="720" height="1520" alt="login-screen jpeg" src="https://github.com/user-attachments/assets/2e2ff849-b0db-40f3-acac-2f45edeb8494" />
+
 - Match Creation
+<img width="549" height="850" alt="match-creation jpeg" src="https://github.com/user-attachments/assets/49f97d7f-c424-46bc-b451-f570de16b140" />
+
 - Cricket Live Scoring Screen
+<img width="720" height="1538" alt="cricket-live jpeg" src="https://github.com/user-attachments/assets/38fa69be-d86f-4c47-9d51-e07cc4628919" />
+
 - Kabaddi Live Scoring Screen
+<img width="720" height="1547" alt="kabaddi-live jpeg" src="https://github.com/user-attachments/assets/5f55adeb-f798-41a5-ac70-7fa3465c4078" />
+
 - Volleyball Live Scoring Screen
+<img width="720" height="1529" alt="volleyball-live jpeg" src="https://github.com/user-attachments/assets/0c83e429-0435-4639-bb18-c8ff10b8da36" />
 
 ---
 
